@@ -159,8 +159,10 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Alt text](image.png)
-![Alt text](image-1.png)
+
+![image](https://github.com/Barath0271/slot/assets/135820464/2e1f03d7-5888-4b83-9fca-87933d2e3d58)
+
+![image](https://github.com/Barath0271/slot/assets/135820464/716cc4de-3015-4151-a193-fe47f22da1ab)
 
 
 
